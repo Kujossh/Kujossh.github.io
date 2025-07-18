@@ -1,0 +1,17 @@
+Package: eu.heinelt.ifile
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 9
+Pre-Depends: firmware (>= 5.0)
+Depends: ai.akemi.appsyncunified (>= 5.1)
+Filename: debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/
+Description: File Manager.
+Tag: role::enduser, purpose::console
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/
+Name: iFile
+
